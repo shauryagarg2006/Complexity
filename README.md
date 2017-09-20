@@ -1,5 +1,7 @@
 # Complexity
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shauryagarg2006/Complexity.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/CSC-DevOps/Complexity.svg?branch=master)](https://travis-ci.org/CSC-DevOps/Complexity)
 
 In this workshop, you'll be implementing simple algorithms for checking basic properties of code complexity.
