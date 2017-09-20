@@ -21,7 +21,7 @@
   "author": "you",
   "license": "ISC",
   "devDependencies": {
-    "escodegen": "1.9.0",
+    "escodegen": "0.0.0",
     "esprima": "^4.0.0"
   }
 }
